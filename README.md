@@ -1,4 +1,6 @@
 # git-with-vscode
 # cloning
-# stage,unstage,commit, discard
+# stage,unstage,commit and  discard changes
+# push 
 # branch
+# history 

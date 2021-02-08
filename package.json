@@ -1,0 +1,25 @@
+{
+  "name": "git-with-vscode",
+  "version": "1.0.0",
+  "description": "learn eslint",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "lint": "eslint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/appy385/git-with-vscode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/appy385/git-with-vscode/issues"
+  },
+  "homepage": "https://github.com/appy385/git-with-vscode#readme",
+  "devDependencies": {
+    "eslint": "^7.19.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1"
+  }
+}
